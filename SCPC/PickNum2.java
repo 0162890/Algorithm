@@ -2,6 +2,7 @@ import java.util.Scanner;
 /*
 *
 * @author Linda
+* 2016.07.01
 * SCPC 숫자 골라내기
 * https://www.codeground.org/practice/practiceProbView.do?probId=1#
 *

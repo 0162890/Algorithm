@@ -2,6 +2,7 @@ import java.util.Scanner;
 /*
 *
 * @author Linda
+* 2016.07.28
 * SCPC 개구리 뛰기
 * https://www.codeground.org/practice/practiceProbView.do?probId=11
 *

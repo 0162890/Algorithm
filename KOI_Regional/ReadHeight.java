@@ -2,6 +2,7 @@ import java.util.Scanner;
 /*
 *
 * @author Linda
+* 2016.08.14
 * KOI Regional 2015
 * https://www.acmicpc.net/problem/10798
 *

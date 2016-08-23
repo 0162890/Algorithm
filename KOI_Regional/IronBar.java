@@ -3,6 +3,7 @@ import java.util.Stack;
 /*
 *
 * @author Linda
+* 2016.08.16
 * KOI Regional 2015
 * https://www.acmicpc.net/problem/10799
 *

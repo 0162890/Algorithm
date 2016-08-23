@@ -6,6 +6,7 @@ import java.util.Scanner;
 /*
 *
 * @author Linda
+* 2016.08.15
 * KOI Regional 2015
 * https://www.acmicpc.net/problem/10800
 * 시간초과 / 더해진 Size 수정해야 함.

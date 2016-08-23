@@ -1,6 +1,7 @@
 /*
  *
  * @author Linda
+ * 2016.08.17
  * KOI Regional 2015
  * https://www.acmicpc.net/problem/10801
  *

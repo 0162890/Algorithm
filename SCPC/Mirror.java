@@ -2,6 +2,7 @@ import java.util.Scanner;
 /*
 *
 * @author Linda
+* 2016.08.02
 * SCPC 방속의 거울
 * https://www.codeground.org/practice/practiceProbView.do?probId=12#
 *

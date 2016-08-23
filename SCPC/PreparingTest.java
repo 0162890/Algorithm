@@ -3,6 +3,7 @@ import java.util.Scanner;
 /*
 *
 * @author Linda
+* 2016.07.03
 * SCPC 시험공부
 * https://www.codeground.org/practice/practiceProbView.do?probId=3#
 *

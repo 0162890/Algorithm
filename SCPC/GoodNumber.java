@@ -2,6 +2,7 @@ import java.util.HashSet;
 /*
 *
 * @author Linda
+* 2016.08.03
 * SCPC 좋은 수
 * https://www.codeground.org/practice/practiceProbView.do?probId=7
 *
