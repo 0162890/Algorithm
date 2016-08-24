@@ -1,3 +1,4 @@
+import java.util.Scanner;
 /*
  *
  * @author Linda
@@ -6,7 +7,6 @@
  * https://www.acmicpc.net/problem/10801
  *
  */
-import java.util.Scanner;
 public class CardGame {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
